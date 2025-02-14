@@ -3,8 +3,8 @@
 
   ### Hi there 👋, Welcome to my github profile
   ## 💻 Full Stack Developer
-   <a href="https://www.linkedin.com/in/ivanlezcano/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://ivanlezcano.vercel.app/"><img src="https://img.shields.io/badge/portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/ivanlezcano/" target='_blank'><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://ivanlezcano.vercel.app/" target='_blank'><img src="https://img.shields.io/badge/portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
