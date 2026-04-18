@@ -1,5 +1,4 @@
 <div align='center'>
-  <img src='https://media.licdn.com/dms/image/D4D03AQEzaRXPxXKJtQ/profile-displayphoto-shrink_800_800/0/1703158024614?e=1715817600&v=beta&t=1FTNKpiJkw81DPRlFDBtQ7HZbOvppk6ogaqnf-8XKrk' width="10%">
 
   ### 👋 Bienvenido a mi perfil
   ## 🛡️ Cybersecurity Analyst (Junior) | Blue Team | Digital Forensics
